@@ -1,19 +1,14 @@
-
+import React from 'react';
 
 function App() {
   return (
     <div>
-      <header>
-          <a href="/">amazona</a>
-      </header>
-      <main>
-        List Products
-      </main>
-      <footer>
-        footer
-      </footer>
+      <h1>new</h1>
     </div>
-  );
+  )
 }
+
+
+
 
 export default App;
